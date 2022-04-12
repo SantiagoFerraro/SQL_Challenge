@@ -1,5 +1,3 @@
-SELECT * FROM sqlchallenge.ej13;
-
 USE SQLChallenge;
 
 CREATE TABLE Ej13 (
